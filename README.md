@@ -5,6 +5,7 @@
 Нахардкожено в обнимку с ChatGPT, потому просьба сильно не пинать.
 
 Сайт программы https://www.glenn.delahoy.com/desktopinfo/
+
 QR-код можно сгенерировать тут https://www.the-qrcode-generator.com
 
 Главное "окно" программы
